@@ -163,7 +163,7 @@ tests = [
     ("strcspn", "hello world", "world"),
     ("strcspn", "hello world", "xqvzy"),
     ("strcspn", "hello world", "hello"),
-    ("strcspn", "weeb", "weeb")，
+    ("strcspn", "weeb", "weeb"),
 #
 # As you do the assignment, you can put more tests into the tests array.
 # Here's a few. Don't forget to separate them with a comma
